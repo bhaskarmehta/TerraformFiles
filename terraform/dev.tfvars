@@ -2,6 +2,6 @@ instance_name = "Server1"
 
 instance_type = "t2.micro"
 
-access_key = "AKIA4DJ27L5ZPGHRDDNR"
+access_key = "Access_Key"
 
-secret_key = "/T8oDov3f+rViGoIj6TEif8GrvDYdh5CcciJheDm"
+secret_key = "Secret_Key"
